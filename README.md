@@ -1,6 +1,16 @@
 # pyenv.fish
 helper-functions for python virtual environments
 
+## requirements
+* fish
+* git
+* python
+* python-virtualenv (arch) or python3-venv (debian)
+* optional: fisher
+
+## installation
+`fisher install Picole9/pyenv.fish`
+
 ## features
 
 ### pyenv
